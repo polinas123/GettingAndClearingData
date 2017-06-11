@@ -23,9 +23,9 @@ RspecC3W4assignment.txt
 -----------------------
 this is the tidy data in TXT format, as required in the assignment. this is also the result of running "run_analysis.R"
 
-Codebook
---------
-the codebook of the variables in the tidy dataset are provided in the repository WIKI. 
-https://github.com/polinas123/GettingAndClearingData/wiki
+codebook_tidyHAR.pdf
+--------------------
+the codebook of the variables in the tidy dataset in PDF format.
+
 
 Enjoy :)
