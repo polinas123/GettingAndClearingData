@@ -1,7 +1,7 @@
 # GettingAndClearingData
 coursera assignment
 
-this repository contains two files:
+this repository contains three files:
 
 run_ analysis.R
 ---------------
