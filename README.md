@@ -19,4 +19,13 @@ The script will do the following:
 5. create a tidy dataset, containing the averages of subject+activity for each column (see codebook for further details).
 6. export the tidy dataset to a TXT file in your working directory.
 
+RspecC3W4assignment.txt
+-----------------------
+this is the tidy data in TXT format, as required in the assignment. this is also the result of running "run_analysis.R"
+
+Codebook
+--------
+the codebook of the variables in the tidy dataset are provided in the repository WIKI. 
+https://github.com/polinas123/GettingAndClearingData/wiki
+
 Enjoy :)
