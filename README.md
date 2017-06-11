@@ -1,0 +1,2 @@
+# GettingAndClearingData
+coursera assignment
